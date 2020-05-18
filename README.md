@@ -9,3 +9,9 @@ Présenter le parcours de formations ainsi que l'experience professionnelle
 
 # Réalisations
 Les différentes réalisations
+
+
+# Loisirs
+	- Sport
+	- Lecture
+	- ...
